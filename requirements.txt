@@ -1,0 +1,10 @@
+semantic-kernel
+semantic-kernel[azure]
+asyncio
+python-dotenv
+matplotlib
+seaborn
+pandas
+python-docx
+pathlib2
+logging-utilities
